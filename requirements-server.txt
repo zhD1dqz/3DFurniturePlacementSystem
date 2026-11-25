@@ -1,0 +1,5 @@
+# Versions used by the verified Windows desktop pipeline (Python 3.13).
+numpy==2.2.3
+scipy==1.15.2
+Pillow==11.1.0
+qrcode==8.2

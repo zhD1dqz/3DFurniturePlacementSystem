@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-31T08:13:53.457379+00:00",
+  "target_phone": "Xiaomi 17 Pro",
+  "model_file": "chair.ply",
+  "source_sha256": "e70990bccee261c0ac576dff5ab6ce691610016f766cde159378446765d52915",
+  "gaussians": 9880,
+  "measured_total_height_m": 1.0,
+  "coordinate_contract": "p_metric = scale * rotation * p_ply + translation; column vectors; metres; +Y up; floor Y=0; +Z towards frame 1 camera",
+  "rotation_rows": [
+    [
+      0.1972623425781882,
+      -0.27633749844420574,
+      0.940598296380641
+    ],
+    [
+      0.004006944283984804,
+      -0.9592155170012147,
+      -0.2826473710148345
+    ],
+    [
+      0.980342548601289,
+      0.05952460749716082,
+      -0.18810983096116585
+    ]
+  ],
+  "uniform_scale": 0.38514813083875016,
+  "translation_m": [
+    -0.03836997606525702,
+    1.250614560670956,
+    0.020242498436935947
+  ],
+  "source_to_metric_rows": [
+    [
+      0.07597522252886238,
+      -0.10643087100644187,
+      0.3622696757211166,
+      -0.03836997606525702
+    ],
+    [
+      0.0015432671013517613,
+      -0.3694400634445432,
+      -0.10886110663285024,
+      1.250614560670956
+    ],
+    [
+      0.377577100175483,
+      0.022925791316441745,
+      -0.07245014978708628,
+      0.020242498436935947
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "metric_to_source_rows": [
+    [
+      0.5121726597727563,
+      0.010403644632154362,
+      2.545364939111515,
+      -0.044883442565655164
+    ],
+    [
+      -0.7174836804800692,
+      -2.490510637848088,
+      0.1545499062075987,
+      3.0840105593166602
+    ],
+    [
+      2.4421728188898855,
+      -0.7338666564454139,
+      -0.4884090455054596,
+      1.0213770580898005
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "floor_normal_source": [
+    0.004006944283984804,
+    -0.9592155170012147,
+    -0.2826473710148345
+  ],
+  "floor_offset_source": -3.247100168829718,
+  "floor_fit": {
+    "candidates": 504,
+    "inliers": 183,
+    "median_residual_source_units": 0.016194284411049864,
+    "up_correction_degrees": 1.644759234817044
+  },
+  "floor_residual_median_m": 0.006237198371186965,
+  "metric_centre_bounds_m": [
+    [
+      -0.43978190538202677,
+      -0.022193063146273007,
+      -0.5040157226154383
+    ],
+    [
+      0.3566422255675713,
+      1.0060685089122359,
+      0.446446131227975
+    ]
+  ],
+  "calibration": "Nearby-floor RANSAC + 99.8th percentile Gaussian-centre top; supplied measured_total_height_m. Approximate; centres do not bound rendered ellipsoids.",
+  "renderer_contract": "Keep PLY unchanged and apply object transform to complete Gaussian renderer. Do not transform just xyz: covariance axes and local-space SH viewing directions must follow. Verify importer axis conversion before applying this transform.",
+  "limitations": [
+    "Foot halos and edge blur remain; no new cleanup in this step.",
+    "Metric dimensions depend on estimated floor/top and supplied height; not metrology.",
+    "Mobile rendering and AR require device testing; no APK supplied by this step."
+  ],
+  "checks": {
+    "proper_rotation": true,
+    "inverse_roundtrip_max_error": 8.881784197001252e-16,
+    "calibrated_top_m": 1.0000000000000002
+  }
+}

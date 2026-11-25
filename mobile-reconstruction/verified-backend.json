@@ -1,0 +1,21 @@
+{
+  "native_sha256": "928e4882179de55e64a17b8e8b344741447ed6504fce231860ef942be065e017",
+  "mode": "Android topology-change moment restart; balanced all-view phone training with ten-minute budget",
+  "verification": "113-image phone-only 2400-step run completed in 355.684 seconds, 18440 finite Gaussians; shortened-budget test exported a valid 290-step time_limited model in 27.424 seconds; 17 actual renderer checks passed",
+  "generation_budget_seconds": 600,
+  "verification_report": "dist/mobile-balanced-v0121/comparison/quality-summary.json",
+  "default_new_capture": {
+    "preset": "balanced-v0121",
+    "total_steps": 2400,
+    "disable_refinement": false,
+    "refine_every": 100,
+    "subsample_frames": 1,
+    "resolution": 768,
+    "max_splats": 24000,
+    "growth_stop_iter": 1400,
+    "growth_grad_threshold": 0.00003,
+    "growth_select_fraction": 0.12,
+    "export_every": 400,
+    "budget_seconds": 600
+  }
+}

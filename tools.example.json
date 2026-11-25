@@ -1,0 +1,7 @@
+{
+  "ffmpeg": "tools/ffmpeg/ffmpeg-9.0.2-essentials_build/bin/ffmpeg.exe",
+  "ffprobe": "tools/ffmpeg/ffmpeg-9.0.2-essentials_build/bin/ffprobe.exe",
+  "colmap": "tools/colmap/bin/colmap.exe",
+  "trainer": "brush",
+  "brush": "tools/brush/brush_app.exe"
+}

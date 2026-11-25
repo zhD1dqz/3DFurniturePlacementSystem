@@ -1,0 +1,23 @@
+[package]
+name = "furniture-probe"
+version = "0.1.0"
+edition.workspace = true
+
+[lib]
+name = "furniture_probe"
+crate-type = ["cdylib"]
+
+[dependencies]
+brush-process = { path = "../../crates/brush-process" }
+brush-render = { path = "../../crates/brush-render" }
+brush-vfs = { path = "../../crates/brush-vfs" }
+brush-serde = { path = "../../crates/brush-serde" }
+tokio = { workspace = true, features = ["rt-multi-thread", "sync", "fs", "time"] }
+tokio-stream.workspace = true
+wgpu = { workspace = true, features = ["vulkan"] }
+serde_json.workspace = true
+anyhow.workspace = true
+log.workspace = true
+jni = "0.21.1"
+android_logger = "0.15.0"
+

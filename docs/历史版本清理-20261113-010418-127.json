@@ -1,0 +1,607 @@
+{
+  "created_at": "2026-11-13T01:04:18.1249327+08:00",
+  "applied": true,
+  "total_bytes": 13914043059,
+  "kept_current_build": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_174542_312975",
+  "kept_dist": [
+    "组员部署包",
+    "mobile-ar-entry-v0131",
+    "geometry-v03-final",
+    "mobile-computer-v013",
+    "mobile-balanced-v0121"
+  ],
+  "targets": [
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\archive-v02",
+      "bytes": 1811983,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\buyer-sofa-study",
+      "bytes": 52284224,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.10.0",
+      "bytes": 69541520,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.11.1",
+      "bytes": 73719295,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.3.1",
+      "bytes": 1829090,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.4.0",
+      "bytes": 68914439,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.5.2",
+      "bytes": 68468124,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.5.3",
+      "bytes": 68475838,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.6.0",
+      "bytes": 69271085,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.7.0",
+      "bytes": 69234282,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.8.0",
+      "bytes": 71163501,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\demo-baseline-v0.9.0",
+      "bytes": 69224931,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\geometry-v03",
+      "bytes": 3023133,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-ar-v010",
+      "bytes": 71905190,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-balanced-v0122",
+      "bytes": 72035069,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-crop-v09",
+      "bytes": 73259436,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-detail-v012",
+      "bytes": 216462248,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-integration",
+      "bytes": 73655382,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-newcapture",
+      "bytes": 73602230,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-pose-quality",
+      "bytes": 83638695,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-probe",
+      "bytes": 335765438,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-quality",
+      "bytes": 271070622,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-quality-reset",
+      "bytes": 73204941,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-quality-v011",
+      "bytes": 4596211,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-scan",
+      "bytes": 71176208,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-scan-cloudfix",
+      "bytes": 70812591,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-scan-fix",
+      "bytes": 70805129,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-scan-pairing",
+      "bytes": 70864870,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-scene-v08",
+      "bytes": 75152686,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-training-v07",
+      "bytes": 167531794,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-ui-v011",
+      "bytes": 73935126,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\mobile-ui-v0111",
+      "bytes": 77033046,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\workflow-validation",
+      "bytes": 1864856,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_163418_530416",
+      "bytes": 3128940,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_163438_291584",
+      "bytes": 8776094,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_163837_695615",
+      "bytes": 8833096,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_164206_147247",
+      "bytes": 8834229,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_164308_866625",
+      "bytes": 8831318,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_164434_315566",
+      "bytes": 8833362,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_171904_917810",
+      "bytes": 8896716,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_172121_604102",
+      "bytes": 8899327,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_172218_734862",
+      "bytes": 8904857,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_175329_364717",
+      "bytes": 9062264,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_175742_123636",
+      "bytes": 102044,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_175809_537022",
+      "bytes": 9084617,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_180259_796551",
+      "bytes": 8974978,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_180441_202620",
+      "bytes": 9081462,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261031_180602_988995",
+      "bytes": 9086364,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261101_162916_043540",
+      "bytes": 9097337,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261101_183704_272347",
+      "bytes": 253513823,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261101_184333_351306",
+      "bytes": 260467978,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_010738_715428",
+      "bytes": 47286034,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_010843_685983",
+      "bytes": 260584594,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_011950_000010",
+      "bytes": 260603349,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_013124_994402",
+      "bytes": 260616294,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_014505_489387",
+      "bytes": 260631225,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_015909_792142",
+      "bytes": 260679429,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_020325_338774",
+      "bytes": 260713176,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_020543_440867",
+      "bytes": 253670930,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_022915_527350",
+      "bytes": 260727009,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_134336_708622",
+      "bytes": 253694111,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_135120_606794",
+      "bytes": 260738729,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_140330_340726",
+      "bytes": 260739246,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_141226_943516",
+      "bytes": 253767360,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_141422_485656",
+      "bytes": 260845265,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_141726_399506",
+      "bytes": 253764011,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_142026_237182",
+      "bytes": 260846197,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_143527_196809",
+      "bytes": 253837228,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_143852_792814",
+      "bytes": 260966242,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_144618_768830",
+      "bytes": 260966628,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_151109_955225",
+      "bytes": 261078522,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_155549_568077",
+      "bytes": 254015519,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_155923_866691",
+      "bytes": 261265114,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261102_160557_423871",
+      "bytes": 261296115,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_135823_329180",
+      "bytes": 261458457,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_140655_211510",
+      "bytes": 261480449,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_141339_017981",
+      "bytes": 261480577,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_142334_467099",
+      "bytes": 261448277,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_144126_992399",
+      "bytes": 261531069,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_160922_845383",
+      "bytes": 261630000,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_162138_247688",
+      "bytes": 261652584,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_163625_557222",
+      "bytes": 254264967,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_163853_536846",
+      "bytes": 261684671,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\android-app\\build\\20261103_173711_582080",
+      "bytes": 261734658,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261103_135525_714087",
+      "bytes": 244572007,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261103_120646_879975",
+      "bytes": 244417898,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261102_133754_784272",
+      "bytes": 244417323,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261102_022629_505644",
+      "bytes": 244406092,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_175501_476322",
+      "bytes": 244372004,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_175230_932553",
+      "bytes": 244373060,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_174711_372491",
+      "bytes": 244385236,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_173918_315503",
+      "bytes": 244544217,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_172813_440394",
+      "bytes": 244533802,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_172729_519458",
+      "bytes": 2934,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_172340_118466",
+      "bytes": 20081,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\mobile-reconstruction\\build\\20261101_171135_014314",
+      "bytes": 24048,
+      "directory": true
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\ChairTests.apk",
+      "bytes": 2376299,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\ChairTests.apk.idsig",
+      "bytes": 5510,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\phone-install-report.json",
+      "bytes": 753,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\preview-screen.png",
+      "bytes": 223066,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\test-ar-fallback.png",
+      "bytes": 188792,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\test-preview.png",
+      "bytes": 190609,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\test-report.json",
+      "bytes": 1801,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\test-rotated.png",
+      "bytes": 200052,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\test-zoomed.png",
+      "bytes": 355650,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v02-instrumentation.txt",
+      "bytes": 1175,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v02-test-ar-fallback.png",
+      "bytes": 169509,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v02-test-dimensions-dialog.png",
+      "bytes": 96008,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v02-test-dimensions.png",
+      "bytes": 137599,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v02-test-preview.png",
+      "bytes": 174517,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v03-instrumentation.txt",
+      "bytes": 1777,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v03-test-dimensions-dialog.png",
+      "bytes": 110003,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v03-test-preview.png",
+      "bytes": 165669,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v03-test-size-guide.png",
+      "bytes": 132670,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\v031-instrumentation.txt",
+      "bytes": 1857,
+      "directory": false
+    },
+    {
+      "path": "C:\\Users\\Asus\\Desktop\\3DFurniturePlacementSystem\\dist\\安装说明.txt",
+      "bytes": 986,
+      "directory": false
+    }
+  ],
+  "verification": {
+    "all_targets_removed": true,
+    "current_apk_hash_passed": true,
+    "current_build_log_retained": true,
+    "native_backend_hash_passed": true,
+    "fixture_hash_passed": true,
+    "geometry_retained": true,
+    "handoff_zip_and_files_unchanged": true,
+    "server_data": "not targeted",
+    "tools": "not targeted",
+    "source": "not targeted"
+  }
+}

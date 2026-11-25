@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.furniture.chairdemo.tests">
+ <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="35"/>
+ <application android:label="Chair instrumentation"/>
+ <instrumentation android:name="com.furniture.chairdemo.FunctionTests" android:targetPackage="com.furniture.chairdemo" android:label="Pairing and saved room layouts"/>
+ <instrumentation android:name="com.furniture.chairdemo.NetworkFunctionTests" android:targetPackage="com.furniture.chairdemo" android:label="HTTP history and download recovery"/>
+ <instrumentation android:name="com.furniture.chairdemo.SmokeTests" android:targetPackage="com.furniture.chairdemo" android:functionalTest="true"/>
+  <instrumentation android:name="com.furniture.chairdemo.PhoneFlowTests" android:targetPackage="com.furniture.chairdemo" android:label="Phone generation handoff checks"/>
+  <instrumentation android:name="com.furniture.chairdemo.CaptureTests" android:targetPackage="com.furniture.chairdemo" android:label="Capture data checks"/>
+  <instrumentation android:name="com.furniture.chairdemo.ScanPhoneTests" android:targetPackage="com.furniture.chairdemo" android:label="Real camera timestamp checks"/>
+  <instrumentation android:name="com.furniture.chairdemo.CaptureTrainingTests" android:targetPackage="com.furniture.chairdemo" android:label="New capture training"/>
+  <instrumentation android:name="com.furniture.chairdemo.ResultViewTests" android:targetPackage="com.furniture.chairdemo" android:label="Saved result view"/>
+  <instrumentation android:name="com.furniture.chairdemo.SceneViewerTests" android:targetPackage="com.furniture.chairdemo" android:label="Live scene renderer checks"/>
+  <instrumentation android:name="com.furniture.chairdemo.CropTests" android:targetPackage="com.furniture.chairdemo" android:label="Non-destructive furniture crop"/>
+  <instrumentation android:name="com.furniture.chairdemo.GroundCalibrationTests" android:targetPackage="com.furniture.chairdemo" android:label="Measured chair and contact plane"/>
+  <instrumentation android:name="com.furniture.chairdemo.RoomUiTests" android:targetPackage="com.furniture.chairdemo" android:label="Room UI and multiple furniture"/>
+  <instrumentation android:name="com.furniture.chairdemo.PoseImportTests" android:targetPackage="com.furniture.chairdemo" android:label="Pose diagnostic copy import"/>
+  <instrumentation android:name="com.furniture.chairdemo.GenerationCancelTests" android:targetPackage="com.furniture.chairdemo" android:label="Cancel actual GPU generation"/>
+  <instrumentation android:name="com.furniture.chairdemo.LibraryDeletionTests" android:targetPackage="com.furniture.chairdemo" android:label="Saved model and scene deletion"/>
+  <instrumentation android:name="com.furniture.chairdemo.ComputerFlowTests" android:targetPackage="com.furniture.chairdemo" android:label="Real LAN computer reconstruction"/>
+  <instrumentation android:name="com.furniture.chairdemo.ComputerResumeTests" android:targetPackage="com.furniture.chairdemo" android:label="Resume computer result"/>
+  <instrumentation android:name="com.furniture.chairdemo.ComputerCancelTests" android:targetPackage="com.furniture.chairdemo" android:label="Cancel actual computer processing"/>
+  <instrumentation android:name="com.furniture.chairdemo.CropArEntryTests" android:targetPackage="com.furniture.chairdemo" android:label="Confirmed crop enters AR"/>
+  <instrumentation android:name="com.furniture.chairdemo.CalibrationProbeTests" android:targetPackage="com.furniture.chairdemo" android:label="Current crop preparation diagnostic"/>
+</manifest>
